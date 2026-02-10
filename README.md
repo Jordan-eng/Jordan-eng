@@ -6,13 +6,13 @@
 
 🛠 Quels outils j'utilise ?
 
-    Langages : C/C++, VHDL, Python, MATLAB.
+    Langages : C/C++, VHDL, Python, MATLAB, Labview.
 
-    Hardware : STM32 (Cortex-M4), FPGA (Nexys A7), Microcontrôleurs PIC.
+    Hardware : STM32 (Cortex-M4), FPGA (Nexys A7), Microcontrôleurs PIC, Atmega328P.
 
     CAO & Logiciels : KiCad, Vivado, STM32CubeIDE, Linux, Git, Linux, MATLAB, LabVIEW, LTSpice.
 
-    Électronique : Traitement numérique du signal, Filtrage temps réel, Protocoles de communication (I2C, SPI, UART).
+    Électronique : Traitement numérique du signal, PCB, Filtrage temps réel, Protocoles de communication (I2C, SPI, UART).
 
     Labo : Oscilloscope, Analyseur logique, Soudure étain.
 
